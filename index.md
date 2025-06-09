@@ -1,10 +1,32 @@
-   # Igitabo cy' Indirimbo – Support
+# Igitabo cy’ Indirimbo – Support
 
-   Welcome!  
-   For help, contact: your@email.com
+Welcome to the support page for **Igitabo cy’ Indirimbo**!
 
-   **FAQ:**
-   - How do I favorite a song? Tap the star icon on the song page.
-   - How do I contact support? Email us or use the in-app contact form.
+**About the App:**  
+Igitabo cy’ Indirimbo is a modern hymnbook app that helps you search, read, and favorite Christian songs anytime, anywhere.
 
-   **Privacy Policy:** [Link to your privacy policy]
+---
+
+## Contact
+
+For help or feedback, email us at: [tupatros1@gmail.com](mailto:tupatros1@gmail.com)
+
+---
+
+## FAQ
+
+**How do I favorite a song?**  
+Tap the star icon on the song page.
+
+**How do I contact support?**  
+Email us or use the in-app contact form.
+
+---
+
+## Privacy Policy
+
+Read our privacy policy here: [Privacy Policy](https://your-privacy-policy-link.com)
+
+---
+
+Thank you for using Igitabo cy’ Indirimbo!
