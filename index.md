@@ -25,7 +25,7 @@ Email us or use the in-app contact form.
 
 ## Privacy Policy
 
-Read our privacy policy here: [Privacy Policy](privacy-policy.md)
+Read our privacy policy here: [Privacy Policy](privacy-policy.md) 
 
 ---
 
