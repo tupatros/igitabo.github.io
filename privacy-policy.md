@@ -2,9 +2,9 @@
 
 **Effective Date:** [06/09/2025]
 
-## Igitabo cy’ Indirimbo
+## Igitabo cy’ Indirimbo App and Nyimbo za Wokovu App
 
-Your privacy is important to us. This app does **not** collect, store, or share any personal information.
+Your privacy is important to us. These apps do **not** collect, store, or share any personal information.
 
 ### Information We Do Not Collect
 
