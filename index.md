@@ -1,9 +1,9 @@
-# Igitabo cy’ Indirimbo – Support
+# Igitabo cy’ Indirimbo App and Nyimbo za Wokovu App – Support
 
-Welcome to the support page for **Igitabo cy’ Indirimbo**!
+Welcome to the support page for **Igitabo cy’ Indirimbo and Nyimbo za Wokovu iOS apps**!
 
 **About the App:**  
-Igitabo cy’ Indirimbo is a modern hymnbook app that helps you search, read, and favorite Christian songs anytime, anywhere.
+These are  modern hymnbook apps that helps you search, read, and favorite Christian songs for Kinyarwanda and Swahili anytime, anywhere.
 
 ---
 
@@ -29,4 +29,4 @@ Read our privacy policy here: [Privacy Policy](privacy-policy.md)
 
 ---
 
-Thank you for using Igitabo cy’ Indirimbo!
+Thank you for using Igitabo cy’ Indirimbo and Nyimbo za Wokovu Apps!
